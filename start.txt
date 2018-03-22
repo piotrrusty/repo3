@@ -1,2 +1,2 @@
 zaczynamy
-kończymy
+edycja z PR
